@@ -12,6 +12,12 @@ This repository features a stencil mask shader which defines a region of space, 
 
 This project was created using Unity 2020.3.21f1 and Universal Render Pipeline 10.6.0.
 
+## Tutorials
+
+This project is part of a tutorial available in the following places:
+- YouTube: https://www.youtube.com/watch?v=EzM8LGzMjmc
+- Website: https://danielilett.com/2022-01-05-tut5-22-impossible-geom-stencils/
+
 ## Authors
 
 This project and the corresponding tutorial was created by Daniel Ilett.
